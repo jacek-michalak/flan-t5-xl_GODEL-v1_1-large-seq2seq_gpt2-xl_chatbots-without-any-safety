@@ -1,2 +1,1 @@
-For my personal use ONLY !!!
-NSFW
+For my personal use ONLY - NSFW
