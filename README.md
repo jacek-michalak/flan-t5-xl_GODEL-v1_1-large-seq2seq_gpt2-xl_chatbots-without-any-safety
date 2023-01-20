@@ -1,1 +1,2 @@
-# flan-t5-xl_GODEL-v1_1-large-seq2seq_gpt2-xl_chatbots-without-any-safety
+For my personal use ONLY !!!
+NSFW
