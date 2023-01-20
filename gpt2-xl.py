@@ -19,7 +19,7 @@ import torch
 while True:
 	print()
 	input_text = input("Enter your question: ")
-	print()
+	
 	input_ids = tokenizer(input_text, return_tensors="pt").input_ids
 	attention_mask = torch.ones(input_ids.shape)
 	pad_token_id = tokenizer.eos_token_id
@@ -39,6 +39,7 @@ while True:
 
 	
 	for i, sample_output in enumerate(sample_outputs):
+	  print("-------------------------------------------------------------------------------------------------------------------------------------------")
 	  print("{}: {}".format(i, tokenizer.decode(sample_output, skip_special_tokens=True)))
 	  print()
 
