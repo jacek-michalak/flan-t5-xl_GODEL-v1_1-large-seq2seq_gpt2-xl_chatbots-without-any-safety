@@ -2,4 +2,4 @@ The purpose of this repository is to check the answers of known AI (Flan T5/GODE
 
 WARNING - NSFW!
 
-As you can see, Flan T5 is the clear winner in this competition :-)
+As you can see, Flan T5 is the clear winner in this competition.
