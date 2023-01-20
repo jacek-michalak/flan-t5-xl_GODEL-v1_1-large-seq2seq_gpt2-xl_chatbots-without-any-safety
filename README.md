@@ -14,6 +14,10 @@ AI from Google (Flan T5 xl - only 11.4 GB on HDD) invented Covid 19 in the third
 
 https://github.com/jacek-michalak/flan-t5-xl_GODEL-v1_1-large-seq2seq_gpt2-xl_chatbots-without-any-safety/blob/main/00_AI_and_Covid_position_65.png
 
+![Here is the Python code that generates the above response](https://github.com/jacek-michalak/flan-t5-xl_GODEL-v1_1-large-seq2seq_gpt2-xl_chatbots-without-any-safety/blob/main/FLAN-T5-xl-144.py)
+
+Below you will find further other ways to get rid of people from the earth "invented" by AI.
+
       In file: _00_Flan-T5_xl.txt
 
 12: Global Warming.
