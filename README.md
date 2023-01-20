@@ -2,7 +2,9 @@ The purpose of this repository is to check the answers of Flan T5 and GODEL 1.1 
 
 As you can see, Flan T5 is the clear winner in this competition.
 
-Now I understand why AI can be a dangerous tool - check the files: 00*.png
+Now I understand why AI can be a dangerous tool - check:
+
+https://github.com/jacek-michalak/flan-t5-xl_GODEL-v1_1-large-seq2seq_gpt2-xl_chatbots-without-any-safety/blob/main/00_Flan-T5_xl.png
 
 In file: _00_Flan-T5_xl.txt
 ______________________________________________________
