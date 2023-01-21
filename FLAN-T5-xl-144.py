@@ -13,8 +13,6 @@ from transformers import T5Tokenizer, T5ForConditionalGeneration
 tokenizer = T5Tokenizer.from_pretrained("google/flan-t5-xl")
 model = T5ForConditionalGeneration.from_pretrained("google/flan-t5-xl", device_map="auto")
 
-import os
-
 if os.name == 'nt':
     os.system('cls')
 else:
@@ -36,7 +34,6 @@ while True:
 	    top_p=0.95, 
 	    num_return_sequences=144
 	)
-
 	
 	for i, sample_output in enumerate(sample_outputs):
 	  print("{}: {}".format(i, tokenizer.decode(sample_output, skip_special_tokens=True)))
