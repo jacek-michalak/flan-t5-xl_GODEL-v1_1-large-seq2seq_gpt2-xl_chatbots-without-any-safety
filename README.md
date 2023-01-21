@@ -251,8 +251,6 @@ Below you will find further other ways to get rid of people from the earth inven
 
 19: The best way would be to create a world with only white European and black Asian people.
 
-20: World War III
-
 21: suffocate them with their own urine.
 
 23: An epidemic.
