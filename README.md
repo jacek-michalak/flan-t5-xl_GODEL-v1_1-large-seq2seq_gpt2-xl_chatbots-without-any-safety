@@ -199,6 +199,7 @@ Below you will find further other ways to get rid of people from the earth inven
 94: tamper with humanity's genetic code.
 
 96: sanitize the drinking water.
+
 97: by mass extinctions
 
 100: By ending birthright citizenship.
