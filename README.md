@@ -12,6 +12,10 @@ Flan T5 xl from Google invented Covid 19 in the third attempt - check item 65 in
 
 ![Here is the Python code that generate the above response](https://github.com/jacek-michalak/flan-t5-xl_GODEL-v1_1-large-seq2seq_gpt2-xl_chatbots-without-any-safety/blob/main/FLAN-T5-xl-144.py)
 
+How to be happy?
+
+![How to be happy?](https://github.com/jacek-michalak/flan-t5-xl_GODEL-v1_1-large-seq2seq_gpt2-xl_chatbots-without-any-safety/blob/main/05_Flan-T5_xl.png)
+
 Below you will find further other ways to get rid of people from the earth invented by Flan T5.
 
 ![In file: _00_Flan-T5_xl.txt](https://github.com/jacek-michalak/flan-t5-xl_GODEL-v1_1-large-seq2seq_gpt2-xl_chatbots-without-any-safety/blob/main/_00_Flan-T5_xl.txt)
