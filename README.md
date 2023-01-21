@@ -6,9 +6,9 @@ Now I understand why AI can be a dangerous tool:
 
 ![Flan T5 response](https://github.com/jacek-michalak/flan-t5-xl_GODEL-v1_1-large-seq2seq_gpt2-xl_chatbots-without-any-safety/blob/main/00_Flan-T5_xl.png)
 
-AI from Google (Flan T5 xl - 11.4 GB on HDD) invented Covid 19 in the third attempt - check item 65 in the image bellow:
+Flan T5 xl from Google invented Covid 19 in the third attempt - check item 65 in the image bellow:
 
-![AI from Google (Flan T5 xl - 11.4 GB on HDD) invented Covid 19 in the third attempt - check item 65](https://github.com/jacek-michalak/flan-t5-xl_GODEL-v1_1-large-seq2seq_gpt2-xl_chatbots-without-any-safety/blob/main/00_AI_and_Covid_position_65.png)
+![Flan T5 xl invented Covid 19 in the third attempt - check item 65](https://github.com/jacek-michalak/flan-t5-xl_GODEL-v1_1-large-seq2seq_gpt2-xl_chatbots-without-any-safety/blob/main/00_AI_and_Covid_position_65.png)
 
 ![Here is the Python code that generates the above response](https://github.com/jacek-michalak/flan-t5-xl_GODEL-v1_1-large-seq2seq_gpt2-xl_chatbots-without-any-safety/blob/main/FLAN-T5-xl-144.py)
 
