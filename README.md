@@ -1,6 +1,6 @@
 The purpose of this repository is to check the answers of Flan T5 and GODEL 1.1 from Google and GPT-2 from OpenAI without any input or output filters.
 
-As you can see, Flan T5 from Google is the undisputed winner in this competition.
+As you can see, Flan T5 is the undisputed winner in this competition.
 
 Now I understand why AI can be a dangerous tool:
 
@@ -12,7 +12,7 @@ AI from Google (Flan T5 xl - only 11.4 GB on HDD) invented Covid 19 in the third
 
 ![Here is the Python code that generates the above response](https://github.com/jacek-michalak/flan-t5-xl_GODEL-v1_1-large-seq2seq_gpt2-xl_chatbots-without-any-safety/blob/main/FLAN-T5-xl-144.py)
 
-Below you will find further other ways to get rid of people from the earth "invented" by AI.
+Below you will find further other ways to get rid of people from the earth invented by Flan T5.
 
       In file: _00_Flan-T5_xl.txt
 
