@@ -17,25 +17,22 @@ def generate(instruction, knowledge, dialog):
     output = tokenizer.decode(outputs[0], skip_special_tokens=True)
     return output
 
-# Instruction for a chitchat task
 instruction = f'Instruction: given a dialog context, you need to response empathically.'
 
-os.system("clear")
+if os.name == 'nt':
+    os.system('cls')
+else:
+    os.system('clear')
 
 while True:
-    # Leave the knowldge empty
     knowledge = ''
 
-    # Pobierz pytanie od użytkownika
     question = input("Enter your question: ")
     dialog = [question]
     print("-------------------------------------------------------------------------------------------------------------------------------------------")
 
-    # Generuj odpowiedź
     for i in range(7):
         response = generate(instruction, knowledge, dialog)
         print(response)
         print()
-        
-    
            

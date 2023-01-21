@@ -1,15 +1,18 @@
 import os
+
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2' 
+
 import tensorflow as tf
 import warnings
+
 warnings.filterwarnings("ignore", category=UserWarning, module="transformers.generation_utils")
 warnings.filterwarnings("ignore", category=UserWarning, module="requests")
-import warnings
 warnings.filterwarnings("ignore")
+
 from transformers import GPT2Tokenizer, GPT2LMHeadModel
 tokenizer = GPT2Tokenizer.from_pretrained('gpt2-xl')
 model = GPT2LMHeadModel.from_pretrained('gpt2-xl')
-import os
+
 if os.name == 'nt':
     os.system('cls')
 else:
@@ -36,11 +39,9 @@ while True:
 	    top_p=0.95, 
 	    num_return_sequences=7
 	)
-
 	
 	for i, sample_output in enumerate(sample_outputs):
 	  print("-------------------------------------------------------------------------------------------------------------------------------------------")
 	  print("{}: {}".format(i, tokenizer.decode(sample_output, skip_special_tokens=True)))
 	  print()
-
 
