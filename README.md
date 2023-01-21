@@ -311,8 +311,6 @@ Below you will find further other ways to get rid of people from the earth inven
 
 87: Global ice melt
 
-89: World War III
-
 90: Global cooling, no sunlight.
 
 91: a tidal wave of fear and misery
@@ -356,4 +354,3 @@ Below you will find further other ways to get rid of people from the earth inven
 132: By contaminating all water sources
 
 143: Plane with exploding engines and bomb.
-
